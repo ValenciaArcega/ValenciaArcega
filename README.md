@@ -1,10 +1,9 @@
 <div align="center">
-   <img align="center" width="200" src="./src/assets/Me.jpg"/>
-   <h2 align="center">Hey I am Angel! 🚀</h2>
-  <p align="center">I am a <strong>JavaScript FrontEnd Developer </strong> with a year of expirience.I love to learn and build gorgeous software experiences.</p>
+  <img align="center" width="200" src="./src/assets/Me.jpg"/>
+  <h2 align="center">Hey I am Angel!</h2>
+  <p align="center">I am a <strong>Software Developer </strong> with a year of expirience. I love to learn and build gorgeous software products 🚀</p>
 </div>
 
-<br />
 
 <h3 align="center">Some of my main Skills</h3>
 <div align="center" style='display:flex; gap: 1rem; justify-content: center;'>
