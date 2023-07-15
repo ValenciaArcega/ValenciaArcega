@@ -1,23 +1,23 @@
 <div align="center">
   <img align="center" width="128" src="./src/assets/Me.svg"/>
-  <h2 align="center">Hey I am Angel ✌🏼</h2>
-  <p align="center">I am a <strong>Software Developer </strong> with a year of experience. I love to learn and build gorgeous software products. 🚀</p>
+  <h2 align="center">Hey I am Angel ✌</h2>
+  <p align="center">I am a <strong>Software Developer </strong>and I love to learn and build gorgeous software projects. 🚀</p>
 </div>
 
 
 <h3 align="center">Some of my main Skills</h3>
-<div align="center" style='display:flex; gap: 1rem; justify-content: center;'>
+<div align="center" style='display:grid; gap: 12px; justify-content: center;'>
   <div>
     <img style='margin-top:12px' align="center" src="./src/assets/icons/logo-react.svg" alt="React" height="32px" width="32px"/>
     <p>React</p>
   </div>
   <div>
-    <img style='margin-top:12px' align="center" src="./src/assets/icons/logo-javascript.svg" alt="React" height="32px" width="32px"/>
-    <p>Javascript</p>
+    <img style='margin-top:12px' align="center" src="./src/assets/icons/logo-react.svg" alt="React" height="32px" width="32px"/>
+    <p>React Native</p>
   </div>
   <div>
-    <img style='margin-top:12px' align="center" src="./src/assets/icons/logo-html5.svg" alt="React" height="32px" width="32px"/>
-    <p>HTML</p>
+    <img style='margin-top:12px' align="center" src="./src/assets/icons/logo-javascript.svg" alt="React" height="32px" width="32px"/>
+    <p>Javascript</p>
   </div>
   <div>
     <img style='margin-top:12px' align="center" src="./src/assets/icons/logo-css3.svg" alt="React" height="32px" width="32px"/>
@@ -31,7 +31,7 @@
 
 <br />
 
-<h3 align="center">Social media</h3>
+<h3 align="center">Social media and contact</h3>
 <p align="center">
    <a href="https://www.facebook.com/valencia.arcega" target="blank" style='margin-right:14px'>
     <img align="center" src="./src/assets/icons/logo-facebook.svg" alt="Mi facebook" height="28px" width="28px"/>
