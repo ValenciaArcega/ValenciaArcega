@@ -4,12 +4,11 @@
 </header>
 
 <h3 align="center">Some of my main technologies</h3>
-<section align="center" style='display:flex; gap: 1rem; justify-content: center;'>
+
+<section align="center">
   <article>
-    <header style=" display: flex; gap: 1rem; justify-content: center;">
       <img style='margin-top:12px' align="center" src="./src/assets/icons/logo-javascript-color.svg" alt="Logo de JavaScript" height="32px" width="32px"/>
-    </header>
-    <p>Javascript</p>
+      <p>JavaScript</p>
   </article>
 
   <article>
